@@ -84,7 +84,6 @@ Getting Started with Maven in Less Than 10 Minutes – [Part 1](https://blog.tes
 [Playground Epizy](http://playground.epizy.com/)  
 [Practice Sofware Testing](practicesoftwaretesting.com)  
 [Public APIs (API)](https://github.com/public-apis/public-apis/blob/master/README.md)
-[QA Automation Practice](https://qa-practice.netlify.app/)  
 [QA Playground](https://qaplayground.dev/)  
 [React Shopping Cart](https://react-shopping-cart-67954.firebaseapp.com/)  
 [RealWorld example apps (Web UI)](https://codebase.show/projects/realworld)  
@@ -108,6 +107,7 @@ Getting Started with Maven in Less Than 10 Minutes – [Part 1](https://blog.tes
 [Weather Shopper by Qxf2](https://weathershopper.pythonanywhere.com/)  
 [WebDriverUniversity.com (Web UI)](https://webdriveruniversity.com/)
 [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/)
+[QA Automation Practice](https://qa-practice.netlify.app/)  
 
 ## Selenium
 [Browser unaware Selenium tests](https://imalittletester.com/2020/03/18/browser-unaware-selenium-tests-step-1-identify-oss-on-which-to-run-tests-choose-browsers-to-support/)  
